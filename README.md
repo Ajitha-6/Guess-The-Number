@@ -1,4 +1,6 @@
 # Guess-The-Number
+"C:\Users\ajith\OneDrive\Desktop\Guess the number image.png"
+
 
 **Project Overview**
 
