@@ -1,5 +1,5 @@
 # Guess-The-Number
-"C:\Users\ajith\OneDrive\Desktop\Guess the number image.png"
+![Guess the number image](https://github.com/user-attachments/assets/d127e732-415b-4f7b-983d-6c2aa9c655b3)
 
 
 **Project Overview**
